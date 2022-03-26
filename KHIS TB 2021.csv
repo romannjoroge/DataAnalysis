@@ -1,0 +1,89 @@
+Orgunit ID,Data ID,Orgunit name,Data,21-Jan,21-Feb,21-Mar,21-Apr,21-May,21-Jun,21-Jul,21-Aug,21-Sep,21-Oct,21-Nov,21-Dec,Max Z score,Max modified Z score,Gap weight,Outlier weight,Total weight
+KGHhQ5GLd4k,KmLPBDUi48L,Bungoma County,TB Defaulters,,,1,,,,,,8,2,,,1.14,4.05,18,7,25
+uyOrcHZBpW0,KmLPBDUi48L,Garissa County,TB Defaulters,3,,,,,,,,,,,,0,0,33,0,33
+Hsk1YV8kHkT,KmLPBDUi48L,Kajiado County,TB Defaulters,,,,,,,,1,,,,,0,0,11,0,11
+BjC1xL40gHo,KmLPBDUi48L,Kakamega County,TB Defaulters,,3,,4,2,4,3,1,3,2,8,1,2.42,3.37,6,5,11
+ihZsJ8alvtb,KmLPBDUi48L,Kericho County,TB Defaulters,,,,,,,2,,,1,,1,1.15,0,9,0,9
+qKzosKQPl6G,KmLPBDUi48L,Kiambu County,TB Defaulters,,,4,,1,,,,,,1,,1.15,0,9,0,9
+nrI2khZx3d0,KmLPBDUi48L,Kilifi County,TB Defaulters,1,1,1,2,,3,3,2,,2,3,,1.15,0.67,6,0,6
+tAbBVBbueqD,KmLPBDUi48L,Kisumu County,TB Defaulters,,,,2,,,,,1,1,1,,1.5,0,8,0,8
+yhCUgGcCcOo,KmLPBDUi48L,Machakos County,TB Defaulters,,,,,,,,,,7,,,0,0,77,0,77
+R6f9znhg37c,KmLPBDUi48L,Mandera County,TB Defaulters,,,,,,,,,,1,1,1,0,0,9,0,9
+Eey8fT4Im3y,KmLPBDUi48L,Marsabit County,TB Defaulters,,,7,,,,,,,1,,,0.71,0.67,40,0,40
+wsBsC6gjHvn,KmLPBDUi48L,Mombasa County,TB Defaulters,,,,1,,,,,,2,2,3,1.22,1.35,16,0,16
+jkG3zaihdSs,KmLPBDUi48L,Nairobi County,TB Defaulters,2,11,1,1,,1,,,4,2,1,3,2.52,6.07,6,9,15
+ob6SxuRcqU4,KmLPBDUi48L,Nakuru County,TB Defaulters,5,,,1,1,,2,3,,,,1,1.77,4.72,9,3,12
+u4t9H8XyU9P,KmLPBDUi48L,Siaya County,TB Defaulters,,,,,,,2,,,,1,2,1.15,0,18,0,18
+T4urHM47nlm,KmLPBDUi48L,Tharaka Nithi County,TB Defaulters,,,,,1,,1,,,,,,0,0,10,0,10
+kphDeKClFch,KmLPBDUi48L,Turkana County,TB Defaulters,,,,,,10,7,8,8,,22,1,1.83,6.3,48,15,63
+KGHhQ5GLd4k,aTBJvDJQAF0,Bungoma County,TB deaths,,3,,,,1,1,3,,2,,3,1.19,2.02,15,0,15
+Hsk1YV8kHkT,aTBJvDJQAF0,Kajiado County,TB deaths,,1,,,,,,1,,,,1,0,0,9,0,9
+BjC1xL40gHo,aTBJvDJQAF0,Kakamega County,TB deaths,,2,6,,1,1,1,2,7,3,2,2,2.04,3.37,4,5,9
+ihZsJ8alvtb,aTBJvDJQAF0,Kericho County,TB deaths,,,,,,,,,,1,,,0,0,11,0,11
+qKzosKQPl6G,aTBJvDJQAF0,Kiambu County,TB deaths,2,,,,1,,,,,,,,0.71,0.67,15,0,15
+nrI2khZx3d0,aTBJvDJQAF0,Kilifi County,TB deaths,7,1,3,4,,7,3,6,,2,8,8,1.5,1.35,10,0,10
+tAbBVBbueqD,aTBJvDJQAF0,Kisumu County,TB deaths,,,1,,5,,,,,,,,0.71,0.67,30,0,30
+j8o6iO4Njsi,aTBJvDJQAF0,Kitui County,TB deaths,,,1,,,,,,,,,,0,0,11,0,11
+yhCUgGcCcOo,aTBJvDJQAF0,Machakos County,TB deaths,,,,,,,,,,1,,,0,0,11,0,11
+R6f9znhg37c,aTBJvDJQAF0,Mandera County,TB deaths,1,1,1,,,,,,1,,,1,0,0,7,0,7
+Eey8fT4Im3y,aTBJvDJQAF0,Marsabit County,TB deaths,,3,,1,,,,,,1,,,1.15,0,9,0,9
+wsBsC6gjHvn,aTBJvDJQAF0,Mombasa County,TB deaths,,,,2,,,,,,2,,1,1.15,0,18,0,18
+jkG3zaihdSs,aTBJvDJQAF0,Nairobi County,TB deaths,5,,7,1,,1,2,,5,2,4,8,1.6,1.35,12,0,12
+ob6SxuRcqU4,aTBJvDJQAF0,Nakuru County,TB deaths,,1,3,7,4,1,1,2,2,2,,3,2.39,3.37,4,5,9
+mYZacFNIB3h,aTBJvDJQAF0,Nyandarua County,TB deaths,,,,,,,,,1,,,1,0,0,10,0,10
+u4t9H8XyU9P,aTBJvDJQAF0,Siaya County,TB deaths,,,,,,2,,,2,,,1,1.15,0,18,0,18
+T4urHM47nlm,aTBJvDJQAF0,Tharaka Nithi County,TB deaths,,,,1,1,1,,,2,,,,1.5,0,8,0,8
+kphDeKClFch,aTBJvDJQAF0,Turkana County,TB deaths,,1,,,3,1,1,2,2,1,1,1,2.14,0,3,2,5
+uyOrcHZBpW0,BRzqHfgsmn9,Garissa County,TB cases detected,5,1,3,1,5,1,1,3,2,,,3,1.58,1.12,5,0,5
+qKzosKQPl6G,BRzqHfgsmn9,Kiambu County,TB cases detected,13,21,,,,,,,,,,,0.71,0.67,170,0,170
+nrI2khZx3d0,BRzqHfgsmn9,Kilifi County,TB cases detected,7,17,25,16,,20,13,21,29,,36,,1.79,2.16,60,0,60
+yhCUgGcCcOo,BRzqHfgsmn9,Machakos County,TB cases detected,,,,,,,,,,17,,,0,0,187,0,187
+R6f9znhg37c,BRzqHfgsmn9,Mandera County,TB cases detected,2,1,1,,,1,,,1,,,,1.79,0,7,0,7
+Eey8fT4Im3y,BRzqHfgsmn9,Marsabit County,TB cases detected,20,12,26,11,13,9,14,12,11,12,,9,2.45,9.44,12,23,35
+wsBsC6gjHvn,BRzqHfgsmn9,Mombasa County,TB cases detected,,,,39,,,,,,22,25,17,1.41,2.61,188,0,188
+jkG3zaihdSs,BRzqHfgsmn9,Nairobi County,TB cases detected,,56,,14,5,,,4,13,2,9,,2.2,6.34,45,48,93
+ob6SxuRcqU4,BRzqHfgsmn9,Nakuru County,TB cases detected,8,11,11,12,7,7,12,5,11,11,10,13,1.95,4.05,0,5,5
+kphDeKClFch,BRzqHfgsmn9,Turkana County,TB cases detected,,,,,,,7,9,9,11,4,,1.51,1.69,63,0,63
+KGHhQ5GLd4k,oiZ7R6su8ZX,Bungoma County,TB patients who have completed treatment,,9,15,,,6,10,6,1,8,,7,1.82,3.37,30,0,30
+uyOrcHZBpW0,oiZ7R6su8ZX,Garissa County,TB patients who have completed treatment,2,2,2,1,1,3,2,3,4,,5,2,2.1,2.02,2,3,5
+ihZsJ8alvtb,oiZ7R6su8ZX,Kericho County,TB patients who have completed treatment,7,9,20,15,10,5,6,15,18,14,15,27,2.11,1.69,0,15,15
+qKzosKQPl6G,oiZ7R6su8ZX,Kiambu County,TB patients who have completed treatment,26,29,,20,11,12,10,9,,15,9,6,1.84,3.93,23,16,39
+tAbBVBbueqD,oiZ7R6su8ZX,Kisumu County,TB patients who have completed treatment,3,4,,,1,12,17,14,,3,,2,1.59,4.55,14,23,37
+j8o6iO4Njsi,oiZ7R6su8ZX,Kitui County,TB patients who have completed treatment,29,32,24,,,,,,,,,,1.07,1.12,261,0,261
+R6f9znhg37c,oiZ7R6su8ZX,Mandera County,TB patients who have completed treatment,15,3,20,6,4,6,,3,2,18,18,24,1.61,3.04,6,0,6
+Eey8fT4Im3y,oiZ7R6su8ZX,Marsabit County,TB patients who have completed treatment,,4,,8,5,,,,,2,,7,1.34,1.01,35,0,35
+wsBsC6gjHvn,oiZ7R6su8ZX,Mombasa County,TB patients who have completed treatment,,,,14,,,,,,23,20,12,1.12,1.01,136,0,136
+jkG3zaihdSs,oiZ7R6su8ZX,Nairobi County,TB patients who have completed treatment,39,7,13,6,,28,43,,38,35,32,42,1.55,2.65,67,0,67
+mYZacFNIB3h,oiZ7R6su8ZX,Nyandarua County,TB patients who have completed treatment,,,,2,5,3,5,8,2,,,,1.65,1.8,24,0,24
+u4t9H8XyU9P,oiZ7R6su8ZX,Siaya County,TB patients who have completed treatment,,11,6,4,1,7,5,3,6,6,10,4,1.82,1.69,6,0,6
+T4urHM47nlm,oiZ7R6su8ZX,Tharaka Nithi County,TB patients who have completed treatment,3,7,,4,1,7,5,10,3,,,,1.74,1.85,18,0,18
+KGHhQ5GLd4k,hNsd8cQIYun,Bungoma County,Smear negative TB,,5,5,,,2,1,2,6,16,,4,2.3,3.88,18,12,30
+uyOrcHZBpW0,hNsd8cQIYun,Garissa County,Smear negative TB,2,,2,1,5,,,1,,,,,1.7,2.02,14,0,14
+Hsk1YV8kHkT,hNsd8cQIYun,Kajiado County,Smear negative TB,3,2,3,2,,1,,2,,,,2,1.66,0,10,0,10
+BjC1xL40gHo,hNsd8cQIYun,Kakamega County,Smear negative TB,3,11,32,7,9,2,5,5,9,5,6,4,3,8.94,0,26,26
+ihZsJ8alvtb,hNsd8cQIYun,Kericho County,Smear negative TB,,1,,,2,4,2,9,1,14,7,2,2.09,8.09,6,18,24
+qKzosKQPl6G,hNsd8cQIYun,Kiambu County,Smear negative TB,3,,7,2,2,,5,,,1,5,5,1.58,1.35,16,0,16
+nrI2khZx3d0,hNsd8cQIYun,Kilifi County,Smear negative TB,3,1,6,8,4,4,8,7,9,5,14,2,2.26,2.29,0,9,9
+tAbBVBbueqD,hNsd8cQIYun,Kisumu County,Smear negative TB,,1,,,,,,,,,1,1,0,0,9,0,9
+j8o6iO4Njsi,hNsd8cQIYun,Kitui County,Smear negative TB,7,12,9,,,,,,,,,,1.06,1.01,81,0,81
+R6f9znhg37c,hNsd8cQIYun,Mandera County,Smear negative TB,6,,9,,2,1,,,1,5,7,8,1.3,1.01,22,0,22
+Eey8fT4Im3y,hNsd8cQIYun,Marsabit County,Smear negative TB,5,4,12,3,4,,5,2,4,4,3,4,2.84,5.4,4,8,12
+wsBsC6gjHvn,hNsd8cQIYun,Mombasa County,Smear negative TB,,,,17,,,,,,5,5,8,1.45,4.72,52,11,63
+jkG3zaihdSs,hNsd8cQIYun,Nairobi County,Smear negative TB,20,4,,6,,7,4,5,10,19,34,27,1.9,3.82,17,23,40
+mYZacFNIB3h,hNsd8cQIYun,Nyandarua County,Smear negative TB,,,,2,2,4,4,1,9,,,7,1.67,1.69,20,0,20
+u4t9H8XyU9P,hNsd8cQIYun,Siaya County,Smear negative TB,,4,4,7,4,9,2,3,11,5,9,6,1.81,2.02,5,0,5
+T4urHM47nlm,hNsd8cQIYun,Tharaka Nithi County,Smear negative TB,,12,11,6,6,15,16,3,11,,,15,1.64,1.35,33,0,33
+kphDeKClFch,hNsd8cQIYun,Turkana County,Smear negative TB,1,17,2,,34,18,15,18,34,15,19,16,1.62,5.73,17,4,21
+KGHhQ5GLd4k,VihTrdMMli8,Bungoma County,Smear positive TB,,7,4,,,12,11,14,8,9,,3,1.44,1.24,34,0,34
+uyOrcHZBpW0,VihTrdMMli8,Garissa County,Smear positive TB,3,,1,,,1,1,3,2,,,3,1,0.67,10,0,10
+BjC1xL40gHo,VihTrdMMli8,Kakamega County,Smear positive TB,2,8,7,13,7,10,8,17,8,5,9,3,2.19,4.05,0,10,10
+qKzosKQPl6G,VihTrdMMli8,Kiambu County,Smear positive TB,5,18,18,14,17,12,10,14,,11,9,12,1.92,2.36,12,0,12
+tAbBVBbueqD,VihTrdMMli8,Kisumu County,Smear positive TB,1,1,3,1,3,1,,,,1,1,,1.62,0,4,0,4
+j8o6iO4Njsi,VihTrdMMli8,Kitui County,Smear positive TB,10,12,17,,,,,,,,,,1.11,1.69,108,0,108
+R6f9znhg37c,VihTrdMMli8,Mandera County,Smear positive TB,10,3,16,2,,4,,1,2,19,16,14,1.46,1.47,14,0,14
+Eey8fT4Im3y,VihTrdMMli8,Marsabit County,Smear positive TB,16,9,12,8,9,9,10,10,7,9,8,6,2.56,4.72,0,7,7
+wsBsC6gjHvn,VihTrdMMli8,Mombasa County,Smear positive TB,,,,19,,,,,,12,12,8,1.37,2.36,96,0,96
+jkG3zaihdSs,VihTrdMMli8,Nairobi County,Smear positive TB,18,7,1,31,,13,9,8,23,59,30,22,2.41,2.77,18,43,61
+mYZacFNIB3h,VihTrdMMli8,Nyandarua County,Smear positive TB,,,,,3,,2,1,5,,,3,1.48,1.35,21,0,21
+u4t9H8XyU9P,VihTrdMMli8,Siaya County,Smear positive TB,,,3,,1,2,,,1,1,2,2,1.7,0.67,10,0,10
+T4urHM47nlm,VihTrdMMli8,Tharaka Nithi County,Smear positive TB,2,11,9,6,2,12,8,15,12,,,4,1.53,1.25,17,0,17
